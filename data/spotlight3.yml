@@ -4,6 +4,10 @@ id: "first"
 # title : "Spotlight"
 content: |
   What will you do?
+  <p>
+  Move around in every which way to make all kinds of music!
+  <p>
+  More sample text
 # button: 
 #   label: "Learn More"
 #   link: "#"

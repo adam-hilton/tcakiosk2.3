@@ -3,7 +3,8 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 # title : "Left Hand"
 content: |
-  Move your <strong>Left Hand</strong> and follow the blue dot 🔵! You change the <strong>musical notes</strong> with this hand.
+  Move your <strong>Left Hand</strong> and follow the blue dot 🔵<br>
+  You change the <strong>musical notes</strong> 🎶 with this hand.
   <p>
   ⬆️ and ⬇️ change the <strong>speed</strong> of the notes.
   <p>
@@ -11,4 +12,4 @@ content: |
 # button: 
 #   label: "Learn More"
 #   link: "#"
-image: "images/theremin.gif"
+image: "images/Blue-Demo.gif"

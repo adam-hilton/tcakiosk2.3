@@ -5,10 +5,11 @@ id: "first"
 content: |
   What will you do?
   <p>
-  Move around in every which way to make all kinds of music!
+  Try making different shapes with your body.
   <p>
-  More sample text
+  Move around quickly and slowly <br>
+  as you make your own music!
 # button: 
 #   label: "Learn More"
 #   link: "#"
-image: "images/question-mark.gif"
+image: "images/Full-Demo.gif"

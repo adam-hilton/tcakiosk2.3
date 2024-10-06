@@ -2,7 +2,8 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 # title : "Right Hand"
 content: |
-  Move your <strong>Left Hand</strong> and follow the red dot 🔴! You change the <strong>musical notes</strong> with this hand.
+  Move your <strong>Left Hand</strong> and follow the red dot 🔴<br>
+  You change the <strong>sound</strong> 🔊 with this hand.
   <p>
   ⬆️ and ⬇️ change the <strong>brightness</strong> of the notes.
   <p>
@@ -10,4 +11,4 @@ content: |
 # button: 
 #   label: "Learn More"
 #   link: "#"
-image: "images/swan.gif"
+image: "images/Red-Demo.gif"
